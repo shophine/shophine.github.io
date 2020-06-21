@@ -1,0 +1,23 @@
+
+.downloadresume {
+	box-shadow:inset 0px 1px 3px 0px #9ce6db;
+	background-color:transparent;
+	border-radius:5px;
+	border:1px solid #d8e8e3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:11px 19px;
+	text-decoration:none;
+}
+.downloadresume:hover {
+	background-color:transparent;
+}
+.downloadresume:active {
+	position:relative;
+	top:1px;
+}
+
+      
